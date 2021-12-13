@@ -45,6 +45,7 @@ View::composer('layouts.frontend.partial.footer', function ($view){
 
 ### For Search System in laravel:
      1. Algolia (vue.js)
+     2. new search system
 
 ### Less secure apps will be turned on if you [click here](https://www.google.com/settings/security/lesssecureapps)
 
